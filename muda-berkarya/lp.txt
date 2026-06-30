@@ -9824,7 +9824,7 @@
             </div>
           </div>
           <!-- Copyright-->
-          <p class="footer-copyright">� Copyright 2026 by MADAMTOTO. All Rights Reserved. SEO LIL-TX.</p>
+          <p class="footer-copyright">� Copyright 2026 by MADAMTOTO.</p>
         </div>
       </footer>
     </div>
